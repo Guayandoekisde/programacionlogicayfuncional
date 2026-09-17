@@ -1,0 +1,9 @@
+# Funciones de primera clase: pasar y devolver funciones como cualquier dato.
+--- 
+### Autor: Gomez Cuevas Carlos.
+### Grupo: 4:00 p.m.
+### Materia: Programacion Logica y Funcional.
+### Profesor: Rene Solis Garcia.
+---
+## Introduccion.
+SS
