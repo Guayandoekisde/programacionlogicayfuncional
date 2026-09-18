@@ -1,6 +1,7 @@
 # Funciones de primera clase: pasar y devolver funciones como cualquier dato.
 <p align="center">
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/46fa5800-6fee-43d4-937e-8af2438956ad" /></p></div>
+
 --- 
 ### Autor: Gomez Cuevas Carlos.
 ### Grupo: 4:00 p.m.
