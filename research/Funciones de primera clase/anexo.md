@@ -7,7 +7,7 @@ Se utilizo esta IA para obtener información sobre las propiedades de las funcio
 ```markdown
 Me podrias brindar informacion sobre funciones de primera clase, ya sea de paginas web en español o ingles.
 ```
-Asi como tambien se utilizo para la creacion de la tabla comparativa entre Funciones de primera clase y de primer orden sacada de la pagina web: , esto para facilitar la creacion de dicha tabla.
+Asi como tambien se utilizo para la creacion de la tabla comparativa entre Funciones de primera clase y de primer orden sacada de la pagina web: GeeksforGeeks, “Difference between FirstClass and HigherOrder Functions in JavaScript,” GeeksforGeeks, Jul. 23, 2025. https://www.geeksforgeeks.org/javascript/difference-between-first-class-and-higher-order-functions-in-javascript/, esto para facilitar la creacion de dicha tabla.
 ```markdown
 Podrias hacer este cuadro en Markdown por favor.
 ```
