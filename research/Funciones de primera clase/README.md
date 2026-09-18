@@ -81,7 +81,7 @@ console.log(triplicar(5)); // 15
 En este caso se crea la función "crearMultiplicador" la cual recibe un parámetro "factor" retornando asi otra nueva funcion.
 La función retornada "recuerda" el valor del argumento con el que fue creada (factor = 2 o factor = 3), incluso después de que crearMultiplicador terminó de ejecutarse. Al almacenar el resultado en las constantes "duplicar" o "triplicar", obtienes rutinas independientes y configurables listas para usarse.
 
-## Referencias
+## Bibliografia
 * M. Rolfo, “¿Qué es la programación funcional? Una guía práctica,” Codigoencasa.com, Oct. 24, 2022. https://codigoencasa.com/programacion-funcional/
 * Wikipedia contributors, “First-class function,” Wikipedia, Jul. 07, 2026. https://en.wikipedia.org/wiki/First-class_function
 * GeeksforGeeks, “Difference between FirstClass and HigherOrder Functions in JavaScript,” GeeksforGeeks, Jul. 23, 2025. https://www.geeksforgeeks.org/javascript/difference-between-first-class-and-higher-order-functions-in-javascript/
