@@ -66,7 +66,8 @@ Salida esperada:
 
 ## Diapositivas
 
-- `slides.pdf` — 5–8 diapositivas, subir a esta carpeta **antes** de la sesión.
+- [OCaml.pdf](https://github.com/user-attachments/files/32631545/OCaml.pdf)
+
 
 ## Bibliografía (IEEE)
 
