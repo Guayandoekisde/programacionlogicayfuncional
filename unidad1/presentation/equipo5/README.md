@@ -66,8 +66,7 @@ Salida esperada:
 
 ## Diapositivas
 
-- [OCaml.pdf](https://github.com/user-attachments/files/32631545/OCaml.pdf)
-
+- [OCaml.pdf](https://github.com/user-attachments/files/32838526/OCaml.pdf)
 
 ## Bibliografía (IEEE)
 
@@ -78,9 +77,9 @@ Salida esperada:
 5. “Functors · OCAML Documentation,” OCaml. https://ocaml.org/docs/functors
 6. D. Scott, “How Docker desktop networking works under the hood | Docker,” Docker, Feb. 26, 2022. https://www.docker.com/blog/how-docker-desktop-networking-works-under-the-hood/
 7. A. Chaudhuri, B. Hosmer, G. Levi, and Changigi, “Flow, a new static type checker for JavaScript,” Engineering at Meta, Dec. 07, 2020. https://engineering.fb.com/2014/11/18/web/flow-a-new-static-type-checker-for-javascript/
-8. https://engineering.fb.com/2015/06/11/developer-tools/open-sourcing-facebook-infer-identify-bugs-before-you-ship/
-9. https://ocaml.org/manual/5.5/index.html
-10. “Why OCAML?,” OCaml. https://ocaml.org/about
+8. C. Calcagno, D. Distefano, and P. O’Hearn, "Open-sourcing Facebook Infer: Identify bugs before you ship," Engineering at Meta, Jun. 11, 2015. [Online]. Available: https://engineering.fb.com/2015/06/11/developer-tools/open-sourcing-facebook-infer-identify-bugs-before-you-ship/
+9. INRIA, The OCaml System release 5.5: Documentation and User’s Manual, Institut National de Recherche en Informatique et en Automatique, Jun. 2026. [Online]. Available: https://ocaml.org/manual/5.5/index.html
+10. OCaml Software Foundation, "About OCaml," OCaml.org. [Online]. Available: https://ocaml.org/about. [Accessed: Sep. 29, 2026].
 
 ---
 
